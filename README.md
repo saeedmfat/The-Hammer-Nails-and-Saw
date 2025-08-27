@@ -5,8 +5,8 @@ i want show you The Hammer, Nails, and Saw
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/ultimate-python-devops-toolbox)
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/ultimate-python-devops-toolbox)
+![GitHub last commit](https://img.shields.io/github/last-commit/saeedmfat/The-Hammer-Nails-and-Saw)
+![GitHub repo size](https://img.shields.io/github/repo-size/your-username/The-Hammer-Nails-and-Saw)
 
 A curated collection of advanced Python scripts demonstrating the powerful use of core libraries (`os`, `subprocess`, `requests`, `PyYAML`) to solve complex real-world DevOps and automation challenges.
 
